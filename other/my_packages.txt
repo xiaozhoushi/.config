@@ -1,0 +1,44 @@
+alacritty/alacritty
+
+zsh
+    ohmyzsh/ohmyzsh
+        zplug/zplug
+
+ranger/ranger
+    seebye/ueberzug
+
+tmux/tmux
+    gpakosz/.tmux
+
+neovim/neovim
+    luajit
+    LunarVim/Lunarvim
+
+denysdovhan/spaceship-prompt
+
+ryanoasis/nerd-fonts -> FiraCode Nerd Font
+
+fd
+
+ripgrep
+
+fzf
+
+lazygit
+
+lazydocker
+
+ncdu
+
+pynvim
+
+
+yshui/picom
+
+ryanoasis/vim-devicons
+
+polybar/polybar
+
+bat
+
+dwm
